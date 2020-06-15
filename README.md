@@ -1,4 +1,4 @@
-# SURP_Project
+# SURP_Project - Mukesh Taank
 
 This repository contains all of the work I have completed over the course of the Summer Undergraduate Research Program (SURP) at CITA.
 
