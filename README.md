@@ -1,6 +1,6 @@
-# SURP_Project - Mukesh Taank
+# SURP Project - Mukesh Taank
 
-This repository contains all of the work I have completed over the course of the Summer Undergraduate Research Program (SURP) at CITA.
+This repository contains all of the work I have completed over the course of the Summer Undergraduate Research Program (SURP) at the Canadian Institute for Theoretical Astrophysics (CITA).
 
 Supervisors: Peter G. Martin and Antoine Marchal.
 
