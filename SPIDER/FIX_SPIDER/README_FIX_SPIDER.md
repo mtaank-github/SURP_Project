@@ -1,0 +1,1 @@
+This directory will look at fixing the data cube that represents the spider. There is a small galaxy region in the top left corner which is affecting the results. I use inpainting technique to mask the problematic region.
