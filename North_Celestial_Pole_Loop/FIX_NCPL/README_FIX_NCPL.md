@@ -1,1 +1,0 @@
-This sub-directory looks at the sub range of the North Celestial Pole Loop (NCPL). From the GHIGLS data, there are abnormalities present in the picture, representing excess emission coming from the IC 2574 Galaxy, part of the M 81 group of galaxies. This directry illustrates the steps of inpainting the data cube to mask these regions affecting the accuracy of the data.
