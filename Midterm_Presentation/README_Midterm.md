@@ -1,1 +1,0 @@
-This directory contains my midterm presentation slides as well as pictures and videos used in those slides. In the pdf document, the video on slide 3 does not play, however, it is available in the "Pictures_and_Videos" subdirectory.
