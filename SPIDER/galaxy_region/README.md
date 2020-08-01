@@ -1,1 +1,1 @@
-This directory looks at the small Galaxy region that is present in the SPIDER picture. This has been identified as the Galaxy IC 2574, part of the M 81 group of galaxies. This is an interesting feature on the SPIDER picture and requires some further analysis.
+This directory looks at the small Galaxy region that is present in the SPIDER picture. This has been identified as the Galaxy IC 2574, part of the M 81 group of galaxies. This is an interesting feature on the SPIDER and requires some further analysis.
