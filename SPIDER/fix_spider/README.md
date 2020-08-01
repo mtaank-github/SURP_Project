@@ -1,1 +1,1 @@
-This directory will look at fixing the data cube that represents the spider. There is a small galaxy region in the top left corner which is affecting the results. I use inpainting technique to mask the problematic region.
+This directory will look at fixing the data cube that represents the spider. There is a small galaxy region in the top left corner which is affecting the results. I use the inpainting technique to mask the problematic region to try and "hide" it from ROHSA when it does its decomposition of the cube.
