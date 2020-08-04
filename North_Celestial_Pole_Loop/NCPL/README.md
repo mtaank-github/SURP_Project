@@ -1,0 +1,1 @@
+This directory looks at the SPIDER as a part of the North Celestial Pole Loop (NCPL). Here, I analyze a small section of the loop, with full view of the SPIDER. Interesting is that in the view I have, Polaris and Ursa Major can be seen and are also interpretted.
