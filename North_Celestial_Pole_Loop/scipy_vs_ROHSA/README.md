@@ -1,1 +1,1 @@
-This directory looks at trying to improve the &chi;<sup>2 values for one specific pixel and comparing ROHSA's decomposition to SciPy's curve_fit() optimizer. Ideally, the value of $\chi^{2}$ will go down as the number of Gaussians increase.
+This directory looks at trying to improve the &chi;<sup>2<sup> values for one specific pixel and comparing ROHSA's decomposition to SciPy's curve_fit() optimizer. Ideally, the value of $\chi^{2}$ will go down as the number of Gaussians increase.
