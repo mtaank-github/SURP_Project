@@ -1,4 +1,4 @@
-# SURP Project 2020 - Mukesh Taank
+# SURP Project 2020-2022 - Mukesh Taank
 
 This repository contains all of the work I have completed over the course of the Summer Undergraduate Research Program (SURP) at the Canadian Institute for Theoretical Astrophysics (CITA).
 
